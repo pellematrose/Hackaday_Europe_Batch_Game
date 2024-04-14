@@ -1,9 +1,10 @@
 # Hackaday Europe Batch Accelerometer game
-Made during the Batch Hacking time.
+Made during the Batch Hacking time.  
 Added files to the original source code:
 - ADXL345.py (driver for the accelerometer)
 - game.py
-- mario.py (a melody to play)
+- mario.py (a melody to play)  
+
 Modified files:
 - supercon_menu.py
 - vos_launch.py

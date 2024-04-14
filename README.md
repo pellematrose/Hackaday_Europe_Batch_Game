@@ -1,16 +1,19 @@
-# Supercon 2023 Source Code
+# Hackaday Europe Batch Accelerometer game
+Made during the Batch Hacking time.
+Added files to the original source code:
+- ADXL345.py (driver for the accelerometer)
+- game.py
+- mario.py (a melody to play)
+Modified files:
+- supercon_menu.py
+- vos_launch.py
 
-This directory contains the source files for the 2023 Supercon Badge. When possible, changes from the initial day-one release are listed below.
+Hardware:
+- ADXL345 accelerometer
+- Hackaday Batch
 
-## Changes
-- supercon_menu.py: Fixed crash in scope mode
-- led.py: Added from Vector OS docs
-- keyboardrepeat.py - Added from Vector OS docs
-
-- Tagged as V1.0
-
-
-- Added BETA/*.py files to source and removed BETA directory
-  Note: this means the UF2 matches V1.0 not current
-  development files
-  
+Connections:  
+- ADXL - Batch  
+- SDA  - SDA  
+- SDO  - SDO  
+- GP28 - Scope Y (for the music)

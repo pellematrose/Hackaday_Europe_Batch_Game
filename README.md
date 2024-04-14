@@ -16,4 +16,5 @@ Connections:
 - ADXL - Batch  
 - SDA  - SDA  
 - SDO  - SDO  
-- GP28 - Scope Y (for the music)
+- GP28 - Scope Y (for the music)  
+![Vectorscope_Batch_Game](https://github.com/pellematrose/Hackaday_Europe_Batch_Game/blob/main/Vectorscope_Batch_Game.jpg)
